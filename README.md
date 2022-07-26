@@ -1,19 +1,6 @@
 # playlist_er
 
-## Project setup
-```
-npm install
-```
+Website for creating playlists with user authentication.
+Each user can make their own playlist and view other user's playlists as well.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Link: https://playlist-er.web.app/login
